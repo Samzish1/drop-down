@@ -1,0 +1,168 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+
+header{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+
+nav{
+    margin: auto;
+    display: flex;
+    padding: 15px;
+    height: 80px;
+
+    
+
+
+}
+nav img{
+    width: 120px;
+    height: 26.53px;
+    text-decoration: solid;
+    
+
+
+
+}
+ul{
+    display: flex;
+    margin-left: 40px;
+    margin-right: 50px;
+  
+
+
+
+
+}
+
+ul li :hover{
+
+    text-decoration:underline ;
+}
+    
+
+
+
+
+
+
+
+#home:hover{
+    color: blue;}
+
+    .class:hover{
+        color: pink;
+
+    }
+
+    .bar:hover{ 
+        color: brown;
+    }
+
+    #too:hover{
+        color: blueviolet;
+
+
+    }
+    
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul li{
+    list-style: none;
+    font-style: normal;
+    padding-left: 40px;
+    padding-top: 4px;
+
+
+
+
+}
+
+/*button{
+    position: relative;
+    left: 110px;
+    bottom: 3px;
+    font-weight: 700;
+    font-size: 15px;
+    height: 30px;
+    width: 66px;
+    background-color: pink;
+    color: black;
+    border: 2px solid red;
+    transition: all ease 0.2s;
+
+
+
+
+
+
+}
+
+button:hover{
+    background-color: brown;
+    color: aquamarine;
+    font-style: italic;
+
+}*/
+
+nav .nav-2 {
+         position: relative;
+         left: 400px;
+         margin: 0 25px;
+
+
+}
+main{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+    section{
+        background-image: url(main.jpeg);
+        background-size: cover;
+        background-position: center;
+        background-repeat:no-repeat ;
+        height: 100vh;
+   
+
+
+
+}
+
+    
+    
+
+
+
+
+
+
+
+    
+
+
+
+
